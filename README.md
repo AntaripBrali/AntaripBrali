@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things by being around common peoples.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on start-up projects.
-- 📫 How to reach me IG: 
+- 📫 Reach me on antareepbharali@gmail.com
 
 <!---
 AntaripBrali/AntaripBrali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
